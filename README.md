@@ -1,4 +1,5 @@
-# Passwordbook
+# Passwordbook-android-application
+
 Masterpassword seccure all of your password and important information into passwordbook android application.
 User can create a master password to login into passwordbook android application.
 Java, Json is being used to create this Android Application. 
